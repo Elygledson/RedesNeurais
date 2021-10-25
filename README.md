@@ -1,1 +1,2 @@
-# RedesNeurais
+# Redes neurais e aprendizado profundo
+
